@@ -1,4 +1,3 @@
-```markdown
 # Chaining Augmentation with PredictionGuard API
 
 This project demonstrates how to download a website, split the content into chunks, and generate embeddings using the [PredictionGuard API](https://predictionguard.com). We use `go-client` to interact with the API, convert HTML content into Markdown, and store vectorized embeddings.
